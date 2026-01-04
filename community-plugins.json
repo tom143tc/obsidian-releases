@@ -1,5 +1,17 @@
 [
   {
+    "id": "map-tips",
+    "name": "Map Tips",
+    "version": "0.0.1",
+    "minAppVersion": "0.15.0",
+    "description": "Interactive map annotation tool for marking locations and creating routes",
+    "author": "tc",
+    "authorUrl": "https://github.com/tom143tc",
+    "fundingUrl": "",
+    "isDesktopOnly": true,
+    "repo": "tom143tc/map-tips"
+  }
+  {
     "id": "nldates-obsidian",
     "name": "Natural Language Dates",
     "author": "Argentina Ortega Sainz",
